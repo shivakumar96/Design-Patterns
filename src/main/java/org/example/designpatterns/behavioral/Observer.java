@@ -1,7 +1,7 @@
 package org.example.designpatterns.behavioral;
 
 // This pattern is similar to publish subscriber architecture.
-// The
+
 
 import java.util.ArrayList;
 import java.util.List;
